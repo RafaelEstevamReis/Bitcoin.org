@@ -127,7 +127,7 @@ pt_BR:
     summary: "O paper que primeiramente introduziu o Bitcoin"
     description: "O documento original de Satoshi Nakamoto ainda é leitura recomendada a quem estuda como o Bitcoin funciona. Escolha qual tradução do documento você quer ler:"
     translated_by: "traduzido por"
-    submit_new_translation: 'Você quer traduzir o documento para o seu idioma? Visite o <a href="https://github.com/wbnns/bitcoinwhitepaper">repositório de documento em branco do Bitcoin no Github</a> para instruções e <a href="https://github.com/wbnns/bitcoinwhitepaper/issues/new">abra um tópico</a> se você tiver alguma dúvida.'
+    submit_new_translation: 'Você quer traduzir o documento para o seu idioma? Visite o <a href="https://github.com/wbnns/bitcoinwhitepaper">repositório do documento técnico (whitepaper) do Bitcoin no Github</a> para instruções e <a href="https://github.com/wbnns/bitcoinwhitepaper/issues/new">abra um tópico</a> se você tiver alguma dúvida.'
   buy:
     title: "Compre Bitcoin"
     pagetitle: "Como comprar Bitcoin"
@@ -1122,7 +1122,7 @@ pt_BR:
     menu-other: "Outros"
     menu-vocabulary: Vocabulário
     menu-you-need-to-know: "Você precisa saber"
-    menu-white-paper: "Documento em branco"
+    menu-white-paper: "Documento técnico"
     banner-core-moved: |
         Esta página se mudou para o novo site do Bitcoin
         Core (clique aqui para ser redirecionado)
